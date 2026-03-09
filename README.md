@@ -120,6 +120,7 @@ _**PS:** If you like this project and it's goals, please consider sponsoring me 
 | ----------------------------------------------- | ------------------------------------------------------------------ |
 | [Bitquery](https://graphql.bitquery.io/ide)     | Blockchain Data, APIs, Dashboard Analytics, Widgets                |
 | [Etherscan](https://etherscan.io/)              | Ethereum block explorer                                            |
+| [Chartscout](https://chartscout.io/)            | Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7.   |
 | [The Graph](https://thegraph.com)               | Indexing protocol for querying networks like Ethereum with GraphQL |
 | [CoinMarketCap](https://coinmarketcap.com/api/) | Cryptocurrency Prices                                            |
 | [Crypto [Periodic] Table](https://jes.al/crypto-table/) | CryptoProjects organised by type into a Periodic Table style layout |
